@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Happy Birthday 🎉</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+      font-family: Arial, sans-serif;
+    }
+    .card {
+      background: white;
+      padding: 30px;
+      border-radius: 16px;
+      max-width: 500px;
+      text-align: center;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+    }
+    h1 {
+      font-size: 2.3rem;
+    }
+    p {
+      font-size: 1.1rem;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="card">
+    <h1>🎂 Happy Birthday 🎉</h1>
+    <p>
+      Another year older, but still a legend 😄<br><br>
+      You are loved, cared for, and appreciated more than you know.
+      May your life be filled with smiles, peace, and happiness always ❤️
+    </p>
+    <p>— Made with love 💫</p>
+<p>
+  🎶 Birthday Vibe:  
+  <a href="https://open.spotify.com" target="_blank">
+    Karan Aujla 🔥
+  </a>
+</p>
+  </div>
+</body>
+</html>
