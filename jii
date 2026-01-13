@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Happy Birthday 🎉</title>
+
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+      font-family: Arial, sans-serif;
+    }
+
+    .card {
+      background: #fff;
+      padding: 25px;
+      border-radius: 18px;
+      max-width: 600px;
+      text-align: center;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+    }
+
+    h1 {
+      font-size: 2.4rem;
+    }
+
+    .funny {
+      font-size: 1.1rem;
+      margin: 15px 0;
+    }
+
+    .emotional {
+      font-size: 1.05rem;
+      line-height: 1.6;
+      margin: 20px 0;
+    }
+
+    .heart {
+      font-size: 2rem;
+    }
+
+    iframe {
+      margin-top: 20px;
+      border-radius: 12px;
+    }
+
+    footer {
+      margin-top: 15px;
+      font-size: 0.9rem;
+      color: #555;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="card">
+    <h1>🎂 Happy Birthday 🎉</h1>
+
+    <p class="funny">
+      Another year older, but don’t worry…  
+      you’re still younger than your future self 😄
+    </p>
+
+    <div class="heart">❤️✨❤️</div>
+
+    <p class="emotional">
+      Today isn’t just about cake and gifts.  
+      It’s about celebrating *you* — your heart, your smile,
+      and the love you bring into people’s lives.
+      <br><br>
+      No matter where life takes you, remember:
+      you are cared for, appreciated, and truly special.
+    </p>
+
+    <h3>🎶 Karan Aujla Birthday Vibe 🔥</h3>
+
+    <!-- SAFE Spotify Track Embed -->
+    <iframe 
+      src="https://open.spotify.com/embed/track/4Q0NH5XbZb0lQ5i4TqC3Cj"
+      width="100%" 
+      height="152"
+      frameborder="0"
+      allow="encrypted-media">
+    </iframe>
+
+    <footer>
+      Made with love, care & good vibes 💫
+    </footer>
+  </div>
+
+</body>
+</html>
